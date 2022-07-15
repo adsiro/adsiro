@@ -1,5 +1,5 @@
 ## Olá! Sou o Adriano Romanello. Engenheiro de Controle e Automação e Desenvolvedor IoT.
-Trabalho com desenvolvimento de softwares, firmwares, machine learning e circuitos eletrônicos digitais e analógicos.
+Trabalho com desenvolvimento de softwares, firmwares, machine learning e circuitos eletrônicos.
 
 <div align="center">
   <a href="https://github.com/adsiro">
